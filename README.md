@@ -5,8 +5,10 @@ The quintessential site for Smash Brothers nerds to access all information on Sm
 ### Landing Page
 <img width="1438" alt="screen shot 2018-10-31 at 3 02 56 pm" src="https://user-images.githubusercontent.com/33442154/47818767-4e775180-dd1e-11e8-8435-d06b34996555.png">
 
+### Characters Page
 <img width="1439" alt="screen shot 2018-10-31 at 3 03 16 pm" src="https://user-images.githubusercontent.com/33442154/47818814-67800280-dd1e-11e8-93ae-fcbabfb6b264.png">
 
+### Stages Page
 <img width="1439" alt="screen shot 2018-10-31 at 3 03 34 pm" src="https://user-images.githubusercontent.com/33442154/47818840-75ce1e80-dd1e-11e8-9231-1127065824af.png">
 
 <img width="1343" alt="screen shot 2018-10-31 at 3 18 35 pm" src="https://user-images.githubusercontent.com/33442154/47819520-618b2100-dd20-11e8-803a-9023602bea89.png">
