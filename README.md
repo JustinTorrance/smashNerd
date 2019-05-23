@@ -11,10 +11,15 @@ The quintessential site for Smash Brothers nerds to access all information on Sm
 ### Stages Page
 <img width="1439" alt="screen shot 2018-10-31 at 3 03 34 pm" src="https://user-images.githubusercontent.com/33442154/47818840-75ce1e80-dd1e-11e8-9231-1127065824af.png">
 
+### Character Card
 <img width="1343" alt="screen shot 2018-10-31 at 3 18 35 pm" src="https://user-images.githubusercontent.com/33442154/47819520-618b2100-dd20-11e8-803a-9023602bea89.png">
 
+<img width="614" alt="screen shot 2018-10-31 at 3 07 10 pm" src="https://user-images.githubusercontent.com/33442154/47818979-c776a900-dd1e-11e8-87e7-9496cf0c1096.png">
+
+### Stages Card
 <img width="1260" alt="screen shot 2018-10-31 at 3 18 15 pm" src="https://user-images.githubusercontent.com/33442154/47819497-4d472400-dd20-11e8-83d0-4e4914bd17da.png">
 
+### Compare Stats Page
 <img width="1438" alt="screen shot 2018-10-31 at 3 03 50 pm" src="https://user-images.githubusercontent.com/33442154/47818894-8c747580-dd1e-11e8-8f59-4de2af584149.png">
 
 ### Set Up - Front-end
@@ -101,11 +106,6 @@ best to worst of that specific statistic.
 Additional enhancements will include:
  - Add additional edits to make fully responsive
  - Add additional animations to characters and stages cards and/or background
-
-
-### Wireframes (Using Figma.com)
-
-<img width="614" alt="screen shot 2018-10-31 at 3 07 10 pm" src="https://user-images.githubusercontent.com/33442154/47818979-c776a900-dd1e-11e8-87e7-9496cf0c1096.png">
 
 
 ### Original Assignment
