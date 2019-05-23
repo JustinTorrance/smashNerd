@@ -2,7 +2,18 @@
 
 The quintessential site for Smash Brothers nerds to access all information on Smash Bros characters, stages and stats. It is developed to be easily updated when Smash Ultimate is released in December 2018.  
 
+### Landing Page
+<img width="1438" alt="screen shot 2018-10-31 at 3 02 56 pm" src="https://user-images.githubusercontent.com/33442154/47818767-4e775180-dd1e-11e8-8435-d06b34996555.png">
+
+<img width="1439" alt="screen shot 2018-10-31 at 3 03 16 pm" src="https://user-images.githubusercontent.com/33442154/47818814-67800280-dd1e-11e8-93ae-fcbabfb6b264.png">
+
+<img width="1439" alt="screen shot 2018-10-31 at 3 03 34 pm" src="https://user-images.githubusercontent.com/33442154/47818840-75ce1e80-dd1e-11e8-9231-1127065824af.png">
+
+<img width="1343" alt="screen shot 2018-10-31 at 3 18 35 pm" src="https://user-images.githubusercontent.com/33442154/47819520-618b2100-dd20-11e8-803a-9023602bea89.png">
+
 <img width="1260" alt="screen shot 2018-10-31 at 3 18 15 pm" src="https://user-images.githubusercontent.com/33442154/47819497-4d472400-dd20-11e8-83d0-4e4914bd17da.png">
+
+<img width="1438" alt="screen shot 2018-10-31 at 3 03 50 pm" src="https://user-images.githubusercontent.com/33442154/47818894-8c747580-dd1e-11e8-8f59-4de2af584149.png">
 
 ### Set Up - Front-end
 
@@ -31,8 +42,7 @@ SmashNerd provides the following robust information -
     - An intuitive and eloquent UI with vibrant character and stage images
     - 200 compressed svgs, images, and icons for every character, stage, and universe and 
     - Link to even more information
-    
-### User Stories
+   
 
 #### Landing Page
  - As a user, when I arrive to the landing page, I will see a "continue to site" button. When I click on that button, I will be taken to the characters page.
@@ -89,17 +99,6 @@ best to worst of that specific statistic.
 Additional enhancements will include:
  - Add additional edits to make fully responsive
  - Add additional animations to characters and stages cards and/or background
-
-### Screenshots
-<img width="1438" alt="screen shot 2018-10-31 at 3 02 56 pm" src="https://user-images.githubusercontent.com/33442154/47818767-4e775180-dd1e-11e8-8435-d06b34996555.png">
-
-<img width="1439" alt="screen shot 2018-10-31 at 3 03 16 pm" src="https://user-images.githubusercontent.com/33442154/47818814-67800280-dd1e-11e8-93ae-fcbabfb6b264.png">
-
-<img width="1439" alt="screen shot 2018-10-31 at 3 03 34 pm" src="https://user-images.githubusercontent.com/33442154/47818840-75ce1e80-dd1e-11e8-9231-1127065824af.png">
-
-<img width="1343" alt="screen shot 2018-10-31 at 3 18 35 pm" src="https://user-images.githubusercontent.com/33442154/47819520-618b2100-dd20-11e8-803a-9023602bea89.png">
-
-<img width="1438" alt="screen shot 2018-10-31 at 3 03 50 pm" src="https://user-images.githubusercontent.com/33442154/47818894-8c747580-dd1e-11e8-8f59-4de2af584149.png">
 
 
 ### Wireframes (Using Figma.com)
